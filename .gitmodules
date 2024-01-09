@@ -1,0 +1,3 @@
+[submodule "games/experimental-minetest-game"]
+	path = games/experimental-minetest-game
+	url = https://github.com/MolassesLover/experimental-minetest-game.git
